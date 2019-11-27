@@ -1,0 +1,142 @@
+﻿NR,Gericht,Komponente,Zutaten,Menge 4 Personen,Menge 8 Personen,Einheit
+1,Jakobsmuscheln,Gebratene Gelbe Beten,junge Gelbe Beten,4,8,Stück
+2,Jakobsmuscheln,Gebratene Gelbe Beten,Olivenöl,240,480,ml
+3,Jakobsmuscheln,Gebratene Gelbe Beten,Rotweinessig,12,24,ml
+4,Jakobsmuscheln,Gebratene Gelbe Beten,Zucker,1,2,EL
+5,Jakobsmuscheln,Karottenpüree,Butter,3,6,EL
+6,Jakobsmuscheln,Karottenpüree,mittelgrosse Karotten,8,16,Stück
+7,Jakobsmuscheln,Karottenpüree,Karottensaft,500,1000,ml
+8,Jakobsmuscheln,Karottenpüree,Salz,,0,
+9,Jakobsmuscheln,Karottenpüree,Cayennepfeffer,,0,
+10,Jakobsmuscheln,In Butter geschmorte junge Karotten,Butter,3,6,EL
+11,Jakobsmuscheln,In Butter geschmorte junge Karotten,junge Gelbe Karotten,8,16,Stück
+12,Jakobsmuscheln,In Butter geschmorte junge Karotten,Hühnerbrühe,60,120,ml
+13,Jakobsmuscheln,In Butter geschmorte junge Karotten,Salz,,0,
+14,Jakobsmuscheln,Warme Rübenvinaigrette,braune Butter,120,240,ml
+15,Jakobsmuscheln,Warme Rübenvinaigrette,Kapernsaft,0.25,0.5,TL
+16,Jakobsmuscheln,Fertigstellen (Jakobsmuscheln),Rapsöl,1,2,EL
+17,Jakobsmuscheln,Fertigstellen (Jakobsmuscheln),Jakobsbuscheln,4,8,Stück
+18,Jakobsmuscheln,Fertigstellen (Jakobsmuscheln),Butter,2,4,EL
+19,Jakobsmuscheln,Fertigstellen (Jakobsmuscheln),Thymian,5,10,Zweige
+20,Jakobsmuscheln,Fertigstellen (Jakobsmuscheln),Knoblauchzehen,2,4,Stück
+21,Jakobsmuscheln,Fertigstellen (Jakobsmuscheln),junge Gelbe Beten,1,2,Stück
+22,Jakobsmuscheln,Fertigstellen (Jakobsmuscheln),junge Gelbe Karotten,1,2,Stück
+23,Jakobsmuscheln,Fertigstellen (Jakobsmuscheln),Kapernstachelbeeren,,0,
+24,Jakobsmuscheln,Fertigstellen (Jakobsmuscheln),glebe Himbeeren,,0,
+25,Jakobsmuscheln,Fertigstellen (Jakobsmuscheln),gelbe Kirschtomaten,,0,
+26,Jakobsmuscheln,Fertigstellen (Jakobsmuscheln),Kapern,,0,
+27,Jakobsmuscheln,Fertigstellen (Jakobsmuscheln),gelbe Kapuzinerkressblüten,,0,
+28,Butternut-Schnitzel mit schwarzem Pfeffer,Speck,Frühstücksspeck,12,24,dünne Scheiben
+29,Butternut-Schnitzel mit schwarzem Pfeffer,Butternut-Schnitzel,Butternut-Kürbis,3,6,Stück
+30,Butternut-Schnitzel mit schwarzem Pfeffer,Butternut-Schnitzel,Butter,4,8,EL
+31,Butternut-Schnitzel mit schwarzem Pfeffer,Butternut-Schnitzel,Thymian,4,8,Zweige
+32,Butternut-Schnitzel mit schwarzem Pfeffer,Butternut-Schnitzel,Knoblauchzehen,2,4,Stück
+33,Butternut-Schnitzel mit schwarzem Pfeffer,Fertigstellen (Butternut-Schnitzel),Meersalz,,0,
+34,Butternut-Schnitzel mit schwarzem Pfeffer,Fertigstellen (Butternut-Schnitzel),schwarzer Pfeffer (frisch gemahlen),,0,
+35,Butternut-Schnitzel mit schwarzem Pfeffer,Fertigstellen (Butternut-Schnitzel),Thymian,8,16,Zweige
+36,Knoblauchsuppe mit Garnelen und Dicken Bohnen,Knoblauchsuppe,Knoblauchzehen,8,16,Stück
+37,Knoblauchsuppe mit Garnelen und Dicken Bohnen,Knoblauchsuppe,Butter,2,4,TL
+38,Knoblauchsuppe mit Garnelen und Dicken Bohnen,Knoblauchsuppe,Knollensellerie,1,2,EL
+39,Knoblauchsuppe mit Garnelen und Dicken Bohnen,Knoblauchsuppe,Fenchel,1,2,EL
+40,Knoblauchsuppe mit Garnelen und Dicken Bohnen,Knoblauchsuppe,Schalotte,1,2,EL
+41,Knoblauchsuppe mit Garnelen und Dicken Bohnen,Knoblauchsuppe,Weisswein,120,240,ml
+42,Knoblauchsuppe mit Garnelen und Dicken Bohnen,Knoblauchsuppe,Hörnchenkartoffeln,180,360,g
+43,Knoblauchsuppe mit Garnelen und Dicken Bohnen,Knoblauchsuppe,Milch,90,180,ml
+44,Knoblauchsuppe mit Garnelen und Dicken Bohnen,Knoblauchsuppe,halb Rahm,90,180,ml
+45,Knoblauchsuppe mit Garnelen und Dicken Bohnen,Knoblauchsuppe,Thymian,2,4,Zweige
+46,Knoblauchsuppe mit Garnelen und Dicken Bohnen,Knoblauchsuppe,Rahm,120,240,ml
+47,Knoblauchsuppe mit Garnelen und Dicken Bohnen,Knoblauchsuppe,Limettensaft,,0,
+48,Knoblauchsuppe mit Garnelen und Dicken Bohnen,Knoblauchsuppe,Salz,,0,
+49,Knoblauchsuppe mit Garnelen und Dicken Bohnen,Knoblauchsuppe,Cayennepfeffer,,0,
+50,Knoblauchsuppe mit Garnelen und Dicken Bohnen,Ragout von Garnelen und Dicken Bohnen,Dicke Bohnen,400,800,g
+51,Knoblauchsuppe mit Garnelen und Dicken Bohnen,Ragout von Garnelen und Dicken Bohnen,Hühnerbrühe,120,240,ml
+52,Knoblauchsuppe mit Garnelen und Dicken Bohnen,Ragout von Garnelen und Dicken Bohnen,Riesengarnelen,12,24,Stück
+53,Knoblauchsuppe mit Garnelen und Dicken Bohnen,Ragout von Garnelen und Dicken Bohnen,Butter,4,8,EL
+54,Knoblauchsuppe mit Garnelen und Dicken Bohnen,Ragout von Garnelen und Dicken Bohnen,Salz,,0,
+55,Milchferkel-Racks mit Aprikosen,Zwiebelblätter,Gemüsezwiebel,1,2,Stück
+56,Milchferkel-Racks mit Aprikosen,Zwiebelblätter,Thymian,8,16,Zweige
+57,Milchferkel-Racks mit Aprikosen,Zwiebelblätter,Butter,2,4,EL
+58,Milchferkel-Racks mit Aprikosen,Zwiebelblätter,Salz,,0,
+59,Milchferkel-Racks mit Aprikosen,Aprikosensauce,Zucker,2,4,EL
+60,Milchferkel-Racks mit Aprikosen,Aprikosensauce,Aprikosen,150,300,g
+61,Milchferkel-Racks mit Aprikosen,Aprikosensauce,weisser Balsamicoessig,1,2,TL
+62,Milchferkel-Racks mit Aprikosen,Aprikosensauce,Rapsöl,1,2,EL
+63,Milchferkel-Racks mit Aprikosen,Aprikosensauce,Schweinefleischabschnitte,100,200,g
+64,Milchferkel-Racks mit Aprikosen,Aprikosensauce,Schalotte,0.5,1,Stück
+65,Milchferkel-Racks mit Aprikosen,Aprikosensauce,Weisswein,120,240,ml
+66,Milchferkel-Racks mit Aprikosen,Aprikosensauce,Hühnerjus,500,1000,ml
+67,Milchferkel-Racks mit Aprikosen,Aprikosensauce,Hühnerbrühe,250,500,ml
+68,Milchferkel-Racks mit Aprikosen,Aprikosensauce,Thymian,7,14,Zweige
+69,Milchferkel-Racks mit Aprikosen,Aprikosensauce,Salz,,0,
+70,Milchferkel-Racks mit Aprikosen,Fertigstellen (Milchferkel-Racks),Rapsöl,2,4,EL
+71,Milchferkel-Racks mit Aprikosen,Fertigstellen (Milchferkel-Racks),Rippenstück vom Milchferkel,450,900,g
+72,Milchferkel-Racks mit Aprikosen,Fertigstellen (Milchferkel-Racks),Butter,5,10,EL
+73,Milchferkel-Racks mit Aprikosen,Fertigstellen (Milchferkel-Racks),Thymian,4,8,Zweige
+74,Milchferkel-Racks mit Aprikosen,Fertigstellen (Milchferkel-Racks),Knoblauchzehen,2,4,Stück
+75,Milchferkel-Racks mit Aprikosen,Fertigstellen (Milchferkel-Racks),Frühlingszwiebeln,8,16,Stück
+76,Milchferkel-Racks mit Aprikosen,Fertigstellen (Milchferkel-Racks),Hühnerbrühe,60,120,ml
+77,Milchferkel-Racks mit Aprikosen,Fertigstellen (Milchferkel-Racks),eingelegte Senfkörner,,0,
+78,Milchferkel-Racks mit Aprikosen,Fertigstellen (Milchferkel-Racks),Meersalz,,0,
+79,Milchferkel-Racks mit Aprikosen,Fertigstellen (Milchferkel-Racks),junger Mizunasalat,,0,
+80,Himbeertarte,Sablé Breton,Eigelb,3,6,Stück
+81,Himbeertarte,Sablé Breton,Zucker,60,120,g
+82,Himbeertarte,Sablé Breton,Butter,110,220,g
+83,Himbeertarte,Sablé Breton,Mehl,120,240,g
+84,Himbeertarte,Sablé Breton,Backpulver,2,4,TL
+85,Himbeertarte,Sablé Breton,Fleur de Sel,1,2,TL
+86,Himbeertarte,Tortencreme,Milch,240,480,ml
+87,Himbeertarte,Tortencreme,Zucker,60,120,g
+88,Himbeertarte,Tortencreme,Maisstärke,20,40,g
+89,Himbeertarte,Tortencreme,Salz,0.25,0.5,TL
+90,Himbeertarte,Tortencreme,Eigelb,2,4,Stück
+91,Himbeertarte,Tortencreme,Butter,30,60,g
+92,Himbeertarte,Tortencreme,Vanilleextrakt,1,2,TL
+93,Himbeertarte,Buttercreme,Zucker,100,200,g
+94,Himbeertarte,Buttercreme,Eiweis,2,4,Stück
+95,Himbeertarte,Buttercreme,Butter,150,300,g
+96,Himbeertarte,Buttercreme,Vanilleextrakt,1,2,TL
+97,Himbeertarte,Fertigstellen (Himbeertarte),gelbe Himbeeren,500,1000,g
+98,Himbeertarte,Fertigstellen (Himbeertarte),rote Himbeeren,500,1000,g
+99,Birnenvariationen mit Honig und Ingwer,Birnensorbet,Birnen Geschält,1.3,2.6,kg
+100,Birnenvariationen mit Honig und Ingwer,Birnensorbet,Zucker,100,200,g
+101,Birnenvariationen mit Honig und Ingwer,Birnensorbet,Zitronensäure,1,2,TL
+102,Birnenvariationen mit Honig und Ingwer,Birnensorbet,Crème fraîche ,3,6,EL
+103,Birnenvariationen mit Honig und Ingwer,Birnensorbet,Zitronensaft,1,2,EL
+104,Birnenvariationen mit Honig und Ingwer,Birnensorbet,Salz,0.25,0.5,TL
+105,Birnenvariationen mit Honig und Ingwer,Ingwerstreusel,Butter,2,4,EL
+106,Birnenvariationen mit Honig und Ingwer,Ingwerstreusel,Mehl,60,120,g
+107,Birnenvariationen mit Honig und Ingwer,Ingwerstreusel,Zucker,50,100,g
+108,Birnenvariationen mit Honig und Ingwer,Ingwerstreusel,gemahlener Ingwer,1,2,TL
+109,Birnenvariationen mit Honig und Ingwer,Ingwerstreusel,gemahlener Zimt,0.25,0.5,TL
+110,Birnenvariationen mit Honig und Ingwer,Ingwerstreusel,Salz,0.25,0.5,TL
+111,Birnenvariationen mit Honig und Ingwer,Birnenpüree,Birnen (Boscos / Alexander),2,4,Stück
+112,Birnenvariationen mit Honig und Ingwer,Birnenpüree,Butter,1,2,EL
+113,Birnenvariationen mit Honig und Ingwer,Birnenpüree,Weisswein,120,240,ml
+114,Birnenvariationen mit Honig und Ingwer,Birnenpüree,trockener Wermut,60,120,ml
+115,Birnenvariationen mit Honig und Ingwer,Honigcreme,Gelatine,2,4,Blatt
+116,Birnenvariationen mit Honig und Ingwer,Honigcreme,Honig,75,150,g
+117,Birnenvariationen mit Honig und Ingwer,Honigcreme,Milch,180,360,ml
+118,Birnenvariationen mit Honig und Ingwer,Honigcreme,halb Rahm,180,360,ml
+119,Birnenvariationen mit Honig und Ingwer,Honigcreme,Eigelb,4,8,Stück
+120,Birnenvariationen mit Honig und Ingwer,Honigcreme,Zucker,3,6,EL
+121,Birnenvariationen mit Honig und Ingwer,Honigcreme,Salz,1,2,TL
+122,Erdbeeren mit Kamille,Erdbeer-Kamille-Consommé,Erdbeeren,2,4,kg
+123,Erdbeeren mit Kamille,Erdbeer-Kamille-Consommé,Zucker,300,600,g
+124,Erdbeeren mit Kamille,Erdbeer-Kamille-Consommé,getrocknete Kamille,15,30,g
+125,Erdbeeren mit Kamille,Kamille-Joghurteis,Milch,240,480,g
+126,Erdbeeren mit Kamille,Kamille-Joghurteis,getrocknete Kamille,7,14,g
+127,Erdbeeren mit Kamille,Kamille-Joghurteis,Zitrone,1,2,Stück
+128,Erdbeeren mit Kamille,Kamille-Joghurteis,Gelatine,3,6,Blatt
+129,Erdbeeren mit Kamille,Kamille-Joghurteis,Zucker,100,200,g
+130,Erdbeeren mit Kamille,Kamille-Joghurteis,Honig,75,150,g
+131,Erdbeeren mit Kamille,Kamille-Joghurteis,Schafsmilchjoghurt,720,1440,ml
+132,Erdbeeren mit Kamille,Gebratene Erdbeeren in Gelee,Erdbeeren,0.3,0.6,kg
+133,Erdbeeren mit Kamille,Gebratene Erdbeeren in Gelee,Puderzucker,,0,
+134,Erdbeeren mit Kamille,Gebratene Erdbeeren in Gelee,Gelatine,4,8,Blatt
+135,Erdbeeren mit Kamille,Gebratene Erdbeeren in Gelee,Zucker,2,4,EL
+136,Erdbeeren mit Kamille,Gebratene Erdbeeren in Gelee,Zitronensäure,0.5,1,TL
+137,Erdbeeren mit Kamille,Erdbeersuppe,Gelatine,1,2,Blatt
+138,Erdbeeren mit Kamille,Erdbeersuppe,Zucker,4,8,EL
+139,Erdbeeren mit Kamille,Erdbeersuppe,Zitronensäure,0.5,1,TL
+140,Erdbeeren mit Kamille,Fertigstellen (Erdbeeren mit Kamille),Erdbeeren,0.2,0.4,kg
+141,Erdbeeren mit Kamille,Fertigstellen (Erdbeeren mit Kamille),Kamillenblüten,,0,
